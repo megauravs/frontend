@@ -24,6 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "https://d31n814nfml7bb.cloudfront.net",
   "eslintConfig": {
     "extends": [
       "react-app",
